@@ -12,8 +12,8 @@ This is a tentative plan for how to read, study, and learn from the book [An Int
 |---|---|---|---|
 | NA (Read it yourself!)   |   Chapter 1: Introduction| NA | NA |
 | 2021-05-26  |   Chapter 2: Statistical Learning| Francisco |[Link](https://islr-readers.github.io/statistical-learning.html#regression-versus-classification-problems) |
-|   |   Chapter 3: Linear Regression| TBD | TBD |
-|   |   Chapter 4: Classification| TBD | TBD |
+| 2021-07-08  |   Chapter 3: Linear Regression| Damian | TBD |
+|   |   Chapter 4: Classification| Nyssa | TBD |
 |   |   Chapter 5: Resampling Methods| TBD |  TBD |
 |   | Chapter 6: Linear Model Selection and Regularization| TBD | TBD |
 |   | Chapter 7: Moving Beyond Linearity| TBD | TBD |
